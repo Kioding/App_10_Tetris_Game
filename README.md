@@ -3,6 +3,14 @@
 <br><br>
 
 # 프로젝트
+### 테트리스 설계
+> 2차원 배열에 20개의 1차원 배열
+
+![스크린샷 2022-01-19 오후 5 42 32](https://user-images.githubusercontent.com/65153742/150099664-e3e24bb6-2d55-443c-8026-ca6cbaaf9e7f.png)
+
+
+<br>
+
 ### Xcode 초기 세팅
 1. 프로젝트 생성 시 `Game` 클릭하여 `SpriteKit`, `GamePlayKit` 적용
 2. 테트리스 게임은 세로로만 진행 예정이니 아래 2가지 사항 해제
@@ -12,7 +20,7 @@
    - GameScene.sks
    - Actions.sks
 
-<br><br>
+<br><br><br>
 
 # 학습 내용
 
@@ -59,7 +67,7 @@ public struct CGRect {
 }
 ```
 
-<br><br>
+<br><br><br>
 
 # 참고
 - [CGPoint - developer.apple](https://developer.apple.com/documentation/coregraphics/cgpoint)
