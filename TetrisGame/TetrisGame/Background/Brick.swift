@@ -20,7 +20,7 @@ class Brick {
         var brickName: String = String()
     }
     
-    func brick() -> Bricks {
+    func makeBricks() -> Bricks {
         var bricks: [Bricks] = []
         
         // 블럭모양 ㅜ
