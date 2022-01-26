@@ -21,6 +21,7 @@ class BrickMaker {
             let xValue = x * brickValue.brickSize
             let yValue = y * brickValue.brickSize
             let brick = SKSpriteNode()
+            
             brick.color = brickValue.color
             brick.size = CGSize(width: brickValue.brickSize, height: brickValue.brickSize)
             brick.name = brickValue.brickName
