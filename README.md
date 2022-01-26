@@ -34,7 +34,6 @@
 
 <br>
 
-
 ### CGPoint
 > 2차원 좌표계의 점을 나타내는 구조체
 ```swift
@@ -78,7 +77,16 @@ public struct CGRect {
 <br><br><br>
 
 # 참고
+공식문서
 - [CGPoint - developer.apple](https://developer.apple.com/documentation/coregraphics/cgpoint)
 - [CGRect - developer.apple](https://developer.apple.com/documentation/coregraphics/cgrect)
 - [CGSize - developer.apple](https://developer.apple.com/documentation/coregraphics/cgsize)
 - [CGFloat - developer.apple](https://developer.apple.com/documentation/coregraphics/cgfloat)
+- [gameplaykit - developer.apple](https://developer.apple.com/documentation/gameplaykit)
+- [spritekit - developer.apple](https://developer.apple.com/spritekit/)
+
+raywenderlich
+- [SpriteKit Tutorial for Beginners](https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners)
+
+기타
+- [SpriteKit vs SceneKit](https://sujinnaljin.medium.com/spritekit-vs-scenekit-e53292dd9b7b)
