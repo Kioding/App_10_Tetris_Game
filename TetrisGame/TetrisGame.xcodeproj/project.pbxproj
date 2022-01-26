@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3353768C2798025D00722E39 /* Variable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3353768B2798025D00722E39 /* Variable.swift */; };
 		3353768E2798036E00722E39 /* Brick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3353768D2798036E00722E39 /* Brick.swift */; };
+		3353769027983E2C00722E39 /* BrickeGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3353768F27983E2C00722E39 /* BrickeGenerator.swift */; };
 		33ABD75C27901DD40068EC7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33ABD75B27901DD40068EC7F /* AppDelegate.swift */; };
 		33ABD76227901DD40068EC7F /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33ABD76127901DD40068EC7F /* GameScene.swift */; };
 		33ABD76427901DD40068EC7F /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33ABD76327901DD40068EC7F /* GameViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		3353768B2798025D00722E39 /* Variable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variable.swift; sourceTree = "<group>"; };
 		3353768D2798036E00722E39 /* Brick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brick.swift; sourceTree = "<group>"; };
+		3353768F27983E2C00722E39 /* BrickeGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrickeGenerator.swift; sourceTree = "<group>"; };
 		33ABD75827901DD40068EC7F /* TetrisGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TetrisGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33ABD75B27901DD40068EC7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33ABD76127901DD40068EC7F /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 			children = (
 				33ABD774279022530068EC7F /* BackGround.swift */,
 				3353768D2798036E00722E39 /* Brick.swift */,
+				3353768F27983E2C00722E39 /* BrickeGenerator.swift */,
 			);
 			path = Background;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3353769027983E2C00722E39 /* BrickeGenerator.swift in Sources */,
 				33ABD76227901DD40068EC7F /* GameScene.swift in Sources */,
 				33ABD76427901DD40068EC7F /* GameViewController.swift in Sources */,
 				33ABD75C27901DD40068EC7F /* AppDelegate.swift in Sources */,

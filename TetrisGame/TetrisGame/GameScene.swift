@@ -11,8 +11,9 @@ import GameplayKit
 class GameScene: SKScene {
 
     override func didMove(to view: SKView) {
-
+        Variables.scene = self
         let backGround = BackGround()
+        let generator = BrickGenerator()
         checkBrick()
     }
     
