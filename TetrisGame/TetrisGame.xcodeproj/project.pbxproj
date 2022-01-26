@@ -15,7 +15,7 @@
 		33ABD76727901DD40068EC7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33ABD76527901DD40068EC7F /* Main.storyboard */; };
 		33ABD76927901DDB0068EC7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33ABD76827901DDB0068EC7F /* Assets.xcassets */; };
 		33ABD775279022530068EC7F /* BackGround.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33ABD774279022530068EC7F /* BackGround.swift */; };
-		33D5C81F27A1511100C5D2E4 /* BrickMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D5C81E27A1511100C5D2E4 /* BrickMaker.swift */; };
+		33D5C82127A1519000C5D2E4 /* BrickMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33D5C82027A1519000C5D2E4 /* BrickMaker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		33ABD76827901DDB0068EC7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33ABD76A27901DDB0068EC7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		33ABD774279022530068EC7F /* BackGround.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackGround.swift; sourceTree = "<group>"; };
-		33D5C81E27A1511100C5D2E4 /* BrickMaker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BrickMaker.swift; path = ../../../../../BrickMaker.swift; sourceTree = "<group>"; };
+		33D5C82027A1519000C5D2E4 /* BrickMaker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrickMaker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,7 @@
 			children = (
 				33ABD774279022530068EC7F /* BackGround.swift */,
 				3353768D2798036E00722E39 /* Brick.swift */,
-				33D5C81E27A1511100C5D2E4 /* BrickMaker.swift */,
+				33D5C82027A1519000C5D2E4 /* BrickMaker.swift */,
 			);
 			path = Background;
 			sourceTree = "<group>";
@@ -165,7 +165,7 @@
 				33ABD76427901DD40068EC7F /* GameViewController.swift in Sources */,
 				33ABD75C27901DD40068EC7F /* AppDelegate.swift in Sources */,
 				33ABD775279022530068EC7F /* BackGround.swift in Sources */,
-				33D5C81F27A1511100C5D2E4 /* BrickMaker.swift in Sources */,
+				33D5C82127A1519000C5D2E4 /* BrickMaker.swift in Sources */,
 				3353768C2798025D00722E39 /* Variable.swift in Sources */,
 				3353768E2798036E00722E39 /* Brick.swift in Sources */,
 			);
